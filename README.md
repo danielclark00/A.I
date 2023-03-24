@@ -1,3 +1,7 @@
+<!--
+https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/huggingface.svg
+-->
+
 # Projects
 
 [Dog Vision](https://github.com/danielclark00/A.I/blob/0bf3f8158b8b96eef2cf06e4d4d364e30aafd1b6/projects/dog-vision.ipynb): This notebook builds an end-to-end multi-class image classifier using TenserFlow 2.0 and TensorFlow Hub.
@@ -12,6 +16,6 @@
 # Connect
 <p align="left">
   <a href="https://huggingface.co/Pearson" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/huggingface.svg" alt="Hugging Face Profile" height="30" width="40" />
-  </a>: Check out some of my other project at my Hugging Face repository.
+    <img align="center" src="https://github.com/danielclark00/github-profile-readme-generator/blob/master/src/images/icons/Social/huggingface.svg" alt="Hugging Face Profile" height="30" width="40" />
+  </a> - Check out some of my other project at my Hugging Face repository.
 </p>
